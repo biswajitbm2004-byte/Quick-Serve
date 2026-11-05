@@ -1,0 +1,72 @@
+{
+  "orders": [
+    {
+      "id": 1001,
+      "table": 3,
+      "items": [
+        {
+          "id": 1,
+          "name": "Cappuccino",
+          "price": 140,
+          "qty": 2
+        },
+        {
+          "id": 4,
+          "name": "Chicken Sandwich",
+          "price": 220,
+          "qty": 1
+        }
+      ],
+      "status": "Preparing",
+      "createdAt": 1793873357181
+    },
+    {
+      "id": 1002,
+      "table": 7,
+      "items": [
+        {
+          "id": 2,
+          "name": "Cold Coffee",
+          "price": 160,
+          "qty": 1
+        },
+        {
+          "id": 6,
+          "name": "French Fries",
+          "price": 120,
+          "qty": 1
+        }
+      ],
+      "status": "Pending",
+      "createdAt": 1793873957181
+    },
+    {
+      "id": 1003,
+      "table": 2,
+      "items": [
+        {
+          "id": 3,
+          "name": "Chocolate Brownie",
+          "price": 130,
+          "qty": 2
+        }
+      ],
+      "status": "Ready",
+      "createdAt": 1793872937181
+    },
+    {
+      "id": 1004,
+      "table": 11,
+      "items": [
+        {
+          "id": 5,
+          "name": "Margherita Pizza",
+          "price": 280,
+          "qty": 1
+        }
+      ],
+      "status": "Delivered",
+      "createdAt": 1793871137181
+    }
+  ]
+}
